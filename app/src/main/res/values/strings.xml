@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GokulrajVenugopal_ COMP304_004_Hands-On_Test1_W23</string>
+    <string name="header">Brain Challenge</string>
+    <string name="challenge_detail">Challenge your brain with scientifically designed exercises</string>
+    <string name="exercise1">Loose things</string>
+    <string name="exercise2">Remember names</string>
+    <string name="exercise3">Learn things quickly</string>
+    <string name="exercise4">Keep track of multiple things</string>
+    <string-array name="memoryCycleArray">
+
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+</resources>
